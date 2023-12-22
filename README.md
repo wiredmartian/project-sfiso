@@ -46,3 +46,9 @@ Your application should include the following fields:
 #### Task 4
 
 `<TODO: Feedback Mechanism>`
+
+#### Task 5
+
+Rewrite the current app to use a `Student` class. All the logic to calculate the `subtotal`, `discount` and `total` should live inside that class.
+
+Ref: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes
